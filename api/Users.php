@@ -1,18 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: oleksandr
- * Date: 26.08.16
- * Time: 22:51
- */
-
-
-namespace app\api\v1\models;
-use Yii;
-use yii\base\Model;
-use yii\db\ActiveRecord;
-
-class Users extends ActiveRecord
+class Users
 {
     public function fields()
     {
