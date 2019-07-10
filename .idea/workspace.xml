@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90e63ef0-42df-4b7c-883e-ba144fcb29b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/Api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/Db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/DbCheck.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/Users.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/UsersApi.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/Api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/AuthController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/OrdersCalendarsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/ParkController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/VehicleController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/VehicleModelController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/VehicleModelTypeController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/VehicleModelViewController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/WorkerController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/controllers/WorkerViewController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/models/OrdersCalendar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/models/Park.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/models/Vehicle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/models/VehicleModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/models/VehicleModelType.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/models/VehicleModelView.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/models/Worker.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/modules/v1_1c/models/WorkerView.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/Api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/AnalyticsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/CardsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/FilesController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/HelpController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/InfoController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/LiqPay.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/LocationController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/OrdersController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/PaymentController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/QrController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/RoutesController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/TransactionsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/UserSettingsController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/controllers/WalletController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/models/Cards.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/models/Help.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/models/Locations.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/models/Qr.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/models/Transactions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/models/UserSettings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/models/Users.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/v1/views/default/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,11 +56,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/check.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -125,20 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/Api.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -181,6 +130,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -188,12 +144,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/api/index.php" />
         <option value="$PROJECT_DIR$/api/UsersApi.php" />
         <option value="$PROJECT_DIR$/api/Db.php" />
         <option value="$PROJECT_DIR$/api/DbCheck.php" />
         <option value="$PROJECT_DIR$/api/Users.php" />
         <option value="$PROJECT_DIR$/api/Api.php" />
+        <option value="$PROJECT_DIR$/api/index.php" />
       </list>
     </option>
   </component>
@@ -262,7 +218,7 @@
       <option name="presentableId" value="Default" />
       <updated>1562750201141</updated>
       <workItem from="1562750202242" duration="1549000" />
-      <workItem from="1562752515114" duration="3307000" />
+      <workItem from="1562752515114" duration="4728000" />
     </task>
     <task id="LOCAL-00001" summary="api">
       <created>1562750477847</created>
@@ -275,11 +231,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4856000" />
+    <option name="totallyTimeSpent" value="6277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49921754" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" sideWeight="0.5007825" side_tool="true" weight="0.2524013" />
@@ -340,13 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/Db.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -358,6 +306,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -375,10 +330,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/Api.php">
+    <entry file="file://$PROJECT_DIR$/api/json_encode.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
